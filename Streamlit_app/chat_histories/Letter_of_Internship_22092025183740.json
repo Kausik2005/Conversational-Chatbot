@@ -1,0 +1,34 @@
+[
+    {
+        "type": "human",
+        "content": "What is this document about?"
+    },
+    {
+        "type": "ai",
+        "content": "This document is a letter of internship, offering an unpaid internship position to the recipient, Kausik Varma, at PreciStat IT Solutions Pvt Ltd."
+    },
+    {
+        "type": "ai",
+        "content": "An error occurred: unhashable type: 'list'"
+    },
+    {
+        "type": "human",
+        "content": "Summarize"
+    },
+    {
+        "type": "ai",
+        "content": "The document is an offer for an unpaid internship position to Kausik Varma at PreciStat IT Solutions Pvt Ltd."
+    },
+    {
+        "type": "ai",
+        "content": "An error occurred: unhashable type: 'list'"
+    },
+    {
+        "type": "human",
+        "content": "Which domain is this related to?"
+    },
+    {
+        "type": "ai",
+        "content": "This document is related to the Education or Training domain, specifically an internship opportunity in the field of Information Technology."
+    }
+]

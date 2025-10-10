@@ -1,0 +1,74 @@
+[
+    {
+        "type": "human",
+        "content": "What is this website about?"
+    },
+    {
+        "type": "ai",
+        "content": "This website appears to be the official website of Visakha Valley School, a school that has three houses: Newton House, Raman House, and Edison House. The website contains information about each house, their ethos, and various events and activities happening in the school. It also includes news updates, admissions information, and a gallery section."
+    },
+    {
+        "type": "human",
+        "content": "I think there is another house"
+    },
+    {
+        "type": "ai",
+        "content": "I apologize for the mistake! Upon re-reading the context, I see that there is indeed another house mentioned: \"Blue House\". So, Visakha Valley School has four houses: Newton House, Raman House, Blue House (Edison), and possibly others not mentioned in this specific context."
+    },
+    {
+        "type": "human",
+        "content": "How can i contact them?"
+    },
+    {
+        "type": "ai",
+        "content": "You can contact Visakha Valley School by reaching out to their Principal's Office via email at visakhavalleyschoolvsp@gmail.com or by calling the office landline number: 8074633978."
+    },
+    {
+        "type": "human",
+        "content": "Can you give me the holidays list"
+    },
+    {
+        "type": "ai",
+        "content": "According to the context, I found a section called \"Holidays List\". Here it is:\n\n* WORLD PENGUIN DAY-2024\n* INTERNATIONAL DANCE DAY-2024\n* VVS-THE HYBRID INAUGURATION OF CYBER LEARNING SPACES-2024\n* INTERNATIONAL YOGA DAY-2024\n* JUNIOR INVESTITURE CEREMONY-2024\n* SCHOLAR BADGE CEREMONY-2024\n* WORLD MUSIC DAY-2024\n* SENIOR INVESTITURE CEREMONY-2024\n* INTER-SCHOOL T-10 CRICKET TOURNAMENT-2024\n* HANDLOOM SAREE WALK-2024\n* INDEPENDENCE DAY-2024\n\nLet me know if you need anything else!"
+    },
+    {
+        "type": "human",
+        "content": "CALENDER OF EVENTS FOR THE ACADEMIC YEAR-2023-2024\n"
+    },
+    {
+        "type": "ai",
+        "content": "You're looking for the Calendar of Events for the Academic Year 2023-2024!\n\nAccording to the context, here is what I found:\n\n* SCHOLAR BADGE CEREMONY (2023 - 2024)\n* WOMENS DAY\n* GRADUATION DAY\n* SUMMER CAMP INAUGURATION\n* FOUNDATION LITERACY AND NUMERACY NEP, G20\n* VVS- BEACH CLEAN UP PROGRAMME\n* INDEPENDENCE DAY-2023\n* TELUGU DAY-2023\n* TEACHERS DAY-2023\n* PLAY FEST-SPORTS DAY-2023\n* GAMES FIESTA-SPORTS DAY-2023\n\nLet me know if you need anything else!"
+    },
+    {
+        "type": "human",
+        "content": "What is the dress code for girls?"
+    },
+    {
+        "type": "ai",
+        "content": "According to the context, the dress code for girls is:\n\n**Monday to Thursday:**\n\n* Silver Grey blouse with round neck and round collar.\n* Navy Blue tunic worn over the blouse with round neck. One pocket on the right is allowed. Length of tunic should reach below the knee.\n* School Belt to be worn.\n* Shoes - Black and Navy Blue Nylon Socks.\n\n**Fridays:**\n\n* Silver Grey Blouse (Pattern: No yoke, no gathering at the waist and no waist band. Shoulder flap for flashes required. Short sleeved with shirt type of collar and special turnover shoulder flaps. Should be tucked inside the skirt.)\n* Navy Blue Skirt (Pattern: Box-pleated without loops for belt. Length of the skirt is to extend below the knees. Navy blue divided skirt for girls of classes VI to XII)\n* Shoes - Black ''Play day'' shoes\n* Socks: Navy Blue Nylon Socks\n\n**Additional Notes:**\n\n* Girls should wear black ribbon on all days (Mon to Thur).\n* House coloured shoulder flashes.\n* School tie to be worn on Fridays and on other days when asked."
+    },
+    {
+        "type": "human",
+        "content": "School timings?"
+    },
+    {
+        "type": "ai",
+        "content": "According to the context, the school timings are:\n\n**Morning Assembly:**\n9:00 am - 9:15 am\n**Classes:**\n9:15 am - 1:00 pm\n**Lunch Break:**\n1:00 pm - 2:00 pm\n**Afternoon Classes:**\n2:00 pm - 4:30 pm\n\nPlease note that these timings are subject to change, and students should always check with the school authorities for any updates."
+    },
+    {
+        "type": "human",
+        "content": "What are the school hours for class VI"
+    },
+    {
+        "type": "ai",
+        "content": "According to the context, the school hours for Classes VI to XII are:\n\n7:40 a.m. to 1:40 p.m.\n\nLet me know if you need anything else!"
+    },
+    {
+        "type": "human",
+        "content": "What is the mission and vision for this school?"
+    },
+    {
+        "type": "ai",
+        "content": "According to the context, the Mission of Visakha Valley School is:\n\n\"We at Visakha Valley are committed to:\nCarrying forth the School Motto, \u201cStrive For Excellence\u201d\"\n\nAnd the Vision is:\n\n\"VISION\nWe envision the nurturing of a strong community of life long learners,future-ready leaders,sensitive to the winds of change and committed to living with responsibility, maintaining a delicate balance between traditional values and modern ethos.\"\n\nLet me know if you need anything else!"
+    }
+]
