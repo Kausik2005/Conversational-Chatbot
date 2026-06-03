@@ -91,7 +91,7 @@ Streamlit Chat Interface
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/Kausik2005/Conversational-Chatbot.git)
 cd conversational-rag-chatbot
 ```
 
